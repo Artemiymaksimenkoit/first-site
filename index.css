@@ -1,0 +1,10 @@
+h1 {
+    font-size: 30px;
+    color: blue;
+    margin-bottom: 100px;
+}
+
+.output{
+    color: rgb(255, 0, 0);
+    font-style: italic;
+}
